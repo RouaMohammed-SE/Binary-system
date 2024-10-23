@@ -1,7 +1,4 @@
-#Asmaa Hussein Omar 20231021
-#Roaa mohammed Sayed20230142
-#Amany Hussein Mousa 20231026
-# Function for binary addition
+//Email: rouamohamedse@gmail.com
 def binary_addition():
     first_number = input("Input the first number: ")
     second_number = input("Input the second number: ")
